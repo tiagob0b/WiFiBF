@@ -87,4 +87,4 @@ Misuse may violate local information security laws.
 Thank you!
 This script was based on the Wacker tool, but the script was adjusted to work on Windows.
 
-@blunderbuss-wctf
+https://github.com/blunderbuss-wctf
