@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ⚡ Use
 Example of execution:
 ````
-python WiFiBF.py -s "Nome_of_SSID" -w wordlist.txt
+python WiFiBF.py -s "Name_of_SSID" -w wordlist.txt
 ````
 Available parameters:
 ````
@@ -52,7 +52,7 @@ Parameter Description
 -w	File wordlist
 -v	Version
 ````
-📌 Exemplo
+📌 Example
 ````
 python WiFiBF.py -s My_SSID -w wordlist.txt
 ````
@@ -64,7 +64,7 @@ Expected exit:
 [*] Crack success!
 [*] password is wifi123456
 
-📂 Estrutura do Projeto
+📂 Project Structure
 ````
 WifiBF
 │
